@@ -11,7 +11,7 @@ ___
 ___
 ## **About Me**
 
-_Im not crying because you, trust me im fine_
+_Hi there! I am using WhatsApp_
 
 ## **Stats**
 ![Muhamad-Ramadhani's github stats](https://github-readme-stats.vercel.app/api?username=muhamad-ramadhani&theme=blueberry&show_icons=true)
