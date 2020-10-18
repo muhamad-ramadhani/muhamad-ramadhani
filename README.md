@@ -16,4 +16,4 @@ _Hi there! I am using WhatsApp_
 ## **Stats**
 ![Muhamad-Ramadhani's github stats](https://github-readme-stats.vercel.app/api?username=muhamad-ramadhani&theme=blueberry&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-ramadhani&layout=compact&theme=radical)](https://github.com/muhamad-ramadhani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-ramadhani&layout=compact&theme=tokyonight)](https://github.com/muhamad-ramadhani/github-readme-stats)
