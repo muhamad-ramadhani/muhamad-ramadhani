@@ -11,7 +11,7 @@ ___
 ___
 ## **About Me**
 
-_Hi there! I am using WhatsApp_
+_Realizing everything I love is slowly killing Me_
 
 ## **Stats**
 ![Muhamad-Ramadhani's github stats](https://github-readme-stats.vercel.app/api?username=muhamad-ramadhani&theme=blueberry&show_icons=true)
