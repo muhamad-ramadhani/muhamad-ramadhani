@@ -23,7 +23,7 @@ _Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 
 _**Listening Now**_
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7ap5udisncc99rqmrseiwcpu&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7ap5udisncc99rqmrseiwcpu&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
