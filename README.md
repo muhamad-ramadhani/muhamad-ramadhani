@@ -50,7 +50,7 @@ _**Listening Now**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <a href="https://github.com/muhamad-ramadhani"><img alt="Muhamad Ramadhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhamad-ramadhani&custom_title=muhamad-ramadhani's%20Contribution%20Graph&theme=react-dark" /></a>
-<img align="left" height="250" height="auto" src="https://user-images.githubusercontent.com/72949170/194748277-332049d8-01a2-4b18-b7a8-3ea03df169af.svg">
+<img align="left" width=100%  src="https://user-images.githubusercontent.com/72949170/194768942-c9c9444e-9f88-4ac4-8fc9-2db77d488c0b.svg">
 
 
 
