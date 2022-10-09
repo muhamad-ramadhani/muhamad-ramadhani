@@ -12,6 +12,9 @@ _Realizing everything I love is slowly killing Me_
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   </div>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamad-ramadhani" alt="Muhamad Ramadhani" /></a> </p>
+
 
 ## **Stats**
 ![Muhamad Ramadhani's github stats](https://github-readme-stats.vercel.app/api?username=muhamad-ramadhani&show_icons=true&theme=tokyonight)
@@ -28,7 +31,6 @@ _Realizing everything I love is slowly killing Me_
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/id_en/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72949170/194749452-7cf32846-dc77-49ec-a000-016804464eb5.svg" alt="mongodb" width="50" height="50"/> </a> 
-
   
 <img height="400" height="auto" src="https://user-images.githubusercontent.com/72949170/194748277-332049d8-01a2-4b18-b7a8-3ea03df169af.svg">
 
