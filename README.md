@@ -9,7 +9,11 @@
   <a href="https://t.me/Rama_0x">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://t.me/PemulungAirdropID"> 
+    <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=Telegram&logoColor=white" alt="Channel"/>
+  </a>
   </div>
+  
 <br>
 
 _Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua._
