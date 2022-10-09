@@ -17,7 +17,7 @@
 <br>
 
 _Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua._
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamad-ramadhani&theme=tokyonight" alt="Muhamad Ramadhani" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=muhamad-ramadhani&theme=tokyonight" alt="Muhamad Ramadhani" /> </p>
 
 <br>
 
