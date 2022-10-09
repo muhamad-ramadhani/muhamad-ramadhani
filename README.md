@@ -44,3 +44,4 @@ _Realizing everything I love is slowly killing Me_
 
 
 
+![Profile views](https://gpvc.arturio.dev/muhamad-ramadhani)  
