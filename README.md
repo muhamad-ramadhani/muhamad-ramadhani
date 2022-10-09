@@ -36,10 +36,8 @@ _Realizing everything I love is slowly killing Me_
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-<img align="left" height="400" height="auto" src="https://user-images.githubusercontent.com/72949170/194748277-332049d8-01a2-4b18-b7a8-3ea03df169af.svg">
-
-  
-
+<a href="https://github.com/muhamad-ramadhani"><img alt="Muhamad Ramadhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhamad-ramadhani&custom_title=muhamad-ramadhani's%20Contribution%20Graph&theme=react-dark" /></a>
+<img align="left" height="250" height="auto" src="https://user-images.githubusercontent.com/72949170/194748277-332049d8-01a2-4b18-b7a8-3ea03df169af.svg">
 
 
 
