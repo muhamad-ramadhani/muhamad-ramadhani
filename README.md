@@ -33,7 +33,7 @@ _**Listening Now**_
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-ramadhani&theme=tokyonight" alt="mystreak"/>
 <br>
 [![ Muhamad Ramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mogakamo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## **Languages and Tools**
 
