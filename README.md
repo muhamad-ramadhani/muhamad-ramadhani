@@ -20,8 +20,7 @@ _Realizing everything I love is slowly killing Me_
 ## **Stats**
 ![Muhamad Ramadhani's github stats](https://github-readme-stats.vercel.app/api?username=muhamad-ramadhani&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-ramadhani&theme=tokyonight" alt="mystreak"/>
-![Muhamad Ramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-ramadhani&theme=tokyonight&layout=compact)
-
+[![ Muhamad Ramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mogakamo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **Languages and Tools**
