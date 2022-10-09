@@ -15,11 +15,14 @@ _Realizing everything I love is slowly killing Me_
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamad-ramadhani" alt="Muhamad Ramadhani" /></a> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **Stats**
 ![Muhamad Ramadhani's github stats](https://github-readme-stats.vercel.app/api?username=muhamad-ramadhani&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-ramadhani&theme=tokyonight" alt="mystreak"/>
 ![Muhamad Ramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-ramadhani&theme=tokyonight&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **Languages and Tools**
 
@@ -32,7 +35,9 @@ _Realizing everything I love is slowly killing Me_
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/id_en/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72949170/194749452-7cf32846-dc77-49ec-a000-016804464eb5.svg" alt="mongodb" width="50" height="50"/> </a> 
   
-<img height="400" height="auto" src="https://user-images.githubusercontent.com/72949170/194748277-332049d8-01a2-4b18-b7a8-3ea03df169af.svg">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+<img align="left" height="400" height="auto" src="https://user-images.githubusercontent.com/72949170/194748277-332049d8-01a2-4b18-b7a8-3ea03df169af.svg">
 
   
 
