@@ -21,7 +21,7 @@ _Realizing everything I love is slowly killing Me_
 
 
 <div id="badges">
-  <a href="https://t.me/PemulungAirdropID">
+  <a href="https://t.me/Rama_0x">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   </div>
